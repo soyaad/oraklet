@@ -14,6 +14,6 @@ if ditt_nummer > läskigaAI_nummer:
     print("Grattis " +  name  + "!" + " du vann") 
     print(bett + 100)
 if läskigaAI_nummer > ditt_nummer:
-    print(f"Läskiga AI vann :(, nu har du 0kr") 
+    print(f"Läskiga AI vann :(, nu har du {bett-bett}kr") 
      
 
